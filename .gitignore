@@ -1,0 +1,23 @@
+   # Virtual environment
+   venv/
+   
+   # Python cache
+   __pycache__/
+   *.pyc
+   *.pyo
+   
+   # IDE settings
+   .vscode/
+   .idea/
+   
+   # OS files
+   .DS_Store
+   Thumbs.db
+   
+   # Model weights (large files)
+   *.h5
+   *.pkl
+   
+   # Personal memes (optional - remove if you want to include them)
+   assets/memes/
+   assets/sounds/
